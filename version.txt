@@ -1,1 +1,1 @@
-v1.2.7-unofficial
+v1.2.6-unofficial
